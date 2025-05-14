@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div className="min-h-screen bg-gray-100 relative">
-      <Header username="John Doe" />
+      <Header username="JINA" />
       <AvatarList />
 
       {/* Floating Button */}
