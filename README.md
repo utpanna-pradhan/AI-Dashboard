@@ -23,8 +23,8 @@ https://ai-dashboard-flax.vercel.app/
 
 ## 🔧 Installation
 1. **Clone the repo**
--  git clone https://github.com/your-username/ai-dashboard.git
-- cd ai-dashboard
+-  git clone https://github.com/utpanna-pradhan/AI-Dashboard
+- cd AI-Dashboard
   
 2. **Install dependencies**
 - npm install
